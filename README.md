@@ -16,7 +16,7 @@ Use Plotly.js to build interactive charts on a dashboard.
 * Display each key/value pair from the metadata JSON object somewhere on the page.
 * Update all of the plots any time that a new sample is selected.
 
-## Screenshots
+## Screenshot
 
 ![Image description](https://github.com/melakue/Interactive-Visualizations-and-Dashboards/blob/master/screesnhot%201.JPG)
 
