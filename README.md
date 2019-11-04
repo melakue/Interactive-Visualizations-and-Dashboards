@@ -18,7 +18,7 @@ Use Plotly.js to build interactive charts on a dashboard.
 
 ## Screenshots
 
-![Image description](link-to-image)
+![Image description](https://github.com/melakue/Interactive-Visualizations-and-Dashboards/blob/master/screesnhot%201.JPG)
 
 
 
